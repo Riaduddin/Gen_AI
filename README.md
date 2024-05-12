@@ -1,5 +1,5 @@
 # Gen_AI
-## NER
+## [NER](https://github.com/Riaduddin/Gen_AI/NER_using_LLM.ipynb)
 Dataset- conll2003<br>
 pos_tags: a list of classification labels (int). Full tagset with indices:{'"': 0, "''": 1, '#': 2, '$': 3, '(': 4, ')': 5, ',': 6, '.': 7, ':': 8, '``': 9, 'CC': 10, 'CD': 11, 'DT': 12,
  'EX': 13, 'FW': 14, 'IN': 15, 'JJ': 16, 'JJR': 17, 'JJS': 18, 'LS': 19, 'MD': 20, 'NN': 21, 'NNP': 22, 'NNPS': 23,
