@@ -1,0 +1,15 @@
+langchain
+openai
+huggingface_hub
+langchain_google_genai
+faiss-cpu
+groq
+langchain-groq
+PyPDF2
+streamlit
+langchain_community
+python-dotenv
+pypdf
+google-cloud-aiplatform>=1.38
+requests
+streamlit_modal
